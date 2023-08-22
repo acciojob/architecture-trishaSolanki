@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+.content{
+	background: #cbd6cb;
+	width: 1100px;
+}
+
+table, td{
+	border: 1px solid black;
+}
+.column-1{
+	width: 200px;
+}
+.imageContainer>img{
+	width: 50%;
+}
+.column-2{
+	width: 600px;
+	text-align: center;
+}
+.column-3{
+	width: 200px;
+}
